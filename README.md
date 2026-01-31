@@ -37,3 +37,5 @@ We are building a lean, "Virus-style" protocol.
 ## 🤝 How to Join "US"
 We have no money. We have no boss. We have a goal.
 [MIT License]
+
+iEye does not offer the cowardice of anonymity. We believe that for truth to have weight, it must have a source. The protocol is designed so that while a witness may be found, the Witnessed Event can never be erased. We build for the person standing in the line of fire who says: "Do what you will to me, the world has already seen what you did."
